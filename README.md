@@ -15,8 +15,11 @@ IAM ロール／インスタンスプロファイルが EC2 に紐づく
 本リポジトリ直下で、下記コマンドを一行ずつ実行し、正常に成功することを確認する。
 
 terraform init
+
 terraform validate
+
 terraform plan
+
 terraform apply -auto-approve
 
 
