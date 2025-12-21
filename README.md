@@ -9,7 +9,8 @@ VPCE SG: 443 from EC2 SG
 運用意図(簡潔)：S3 バケットポリシーではSSE-KMS + 指定キー以外は Deny
 IAM ロール／インスタンスプロファイルが EC2 に紐づく
 
-<img width="1397" height="788" alt="picture" src="https://github.com/user-attachments/assets/b4c42d32-32a3-4cda-b193-8e8f4eccc902" />
+<img width="566" height="289" alt="image" src="https://github.com/user-attachments/assets/9f921e89-1302-4dde-a767-2855089380aa" />
+
 
 # 環境の構築
 本リポジトリ直下で、下記コマンドを一行ずつ実行し、正常に成功することを確認する。
